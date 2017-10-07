@@ -1,0 +1,16 @@
+{
+  "name": "nodemysql",
+  "version": "1.0.0",
+  "description": "use nodejs for mysql",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "express": "^4.15.3",
+    "mysql": "^2.13.0",
+    "nodemon": "^1.11.0"
+  }
+}
